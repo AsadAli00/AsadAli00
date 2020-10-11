@@ -1,4 +1,4 @@
-# Asad Ali 💻
+<h1 style="textalign: center">Asad Ali 💻<h1>
 <a href="hhttps://sourcerer.io/asadali00" target="_blank">
 <img src="https://sourcerer.io/icons/logo-bright.svg">
 </a>
