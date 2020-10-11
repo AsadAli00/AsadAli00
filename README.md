@@ -1,5 +1,5 @@
-<h1 style="textalign: center">Asad Ali 💻<h1>
-<a href="hhttps://sourcerer.io/asadali00" target="_blank">
+<h1 style="color:'yellow">Asad Ali 💻<h1>
+<a href="https://sourcerer.io/asadali00" target="_blank">
 <img src="https://sourcerer.io/icons/logo-bright.svg">
 </a>
 <h2 align="center">Welcome To my <i><b> GitHub Profile </b></i></h2>
