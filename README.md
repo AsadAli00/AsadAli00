@@ -1,26 +1,22 @@
-# Asad Ali 👨‍💻 💻
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asad-ali-9910a0172/)](https://www.linkedin.com/in/asad-ali-9910a0172//)
-[![Laptop Badge](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logoColor=white&link=https://atech-website.web.app/Portfolio.html)](https://atech-website.web.app/Portfolio.html)
-
+# Asad Ali 💻
+<a href="hhttps://sourcerer.io/asadali00" target="_blank">
+<img src="https://sourcerer.io/icons/logo-bright.svg">
+</a>
 
 I am..
 
 ### 🎲 Passionate Problem Solver.
 
-### ✅ Academic background in Marketing.
+### ✅ Academic background in Engineering.
 
-### 🏃 Working towards childhood dream of being Software Engineer
+### 🏃 Working towards childhood dream of being Software Engineer or Data Science
 
 ### 🕌 Muslim
 
-Here are the tools I use/work with.
-
-- **FrontEnd Technologies**: React/Redux, GraphQL
-- **BackEnd Technologies:** NodeJs, ASP.NET core
-- **Databases**: PostgreSQL
-- **Programming Languages**: JavaScript/Typescript, C#, Rust
-- **Version Control**: Git and GitHub
-- **DevOps**: Docker, Azure Devops, Heroku, Github Actions
+Here are the Tools I work with.
+<ul>
+  <li>Python</li>
+</ul>
 
 Feel free to get in touch. Coffee ☕️ is on me. 😉
 
