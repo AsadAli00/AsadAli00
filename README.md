@@ -1,4 +1,4 @@
-### Asad Ali 👨‍💻 💻
+# Asad Ali 👨‍💻 💻
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asad-ali-9910a0172/)](https://www.linkedin.com/in/asad-ali-9910a0172//)
 [![Laptop Badge](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logoColor=white&link=https://atech-website.web.app/Portfolio.html)](https://atech-website.web.app/Portfolio.html)
 <!--
