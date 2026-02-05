@@ -38,8 +38,77 @@ Here are the Tools I use/work with.
 
 Feel free to get in touch. 
 
-<!--
+
 **AsadAli00/AsadAli00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowing me.
 As salaam o Alaikum (Peace be upon you) ! Thank you for taking interest in knowing me.
+
+# 🏏 Intelligent Cricket Shot Detection & Highlights Generation
+
+### AI-Powered End-to-End Cricket Video Analytics System  
+Master’s Thesis Project – MS Artificial Intelligence (NED University, Karachi)
+
+---
+
+## 🎯 Project Overview
+
+This project introduces an automated AI system for understanding cricket match videos.  
+It detects key events, classifies batsman shots, and generates highlights without human editing.
+
+### The system performs:
+
+- Ball-wise segmentation using pitch & score-bar detection  
+- Ball bounce detection via trajectory analysis  
+- Shot classification using Vision Transformer (ViViT / VideoMAE)  
+- Automatic highlights generation  
+- Interactive analytics dashboard (React)
+
+This solution is designed for **coaches, analysts, broadcasters, and sports AI researchers.**
+
+---
+
+## 🧠 Key Features
+
+✅ YOLOv8-based pitch & score-bar detection  
+✅ Frame segmentation for each delivery  
+✅ Bounce detection algorithm  
+✅ 10-class shot recognition using ViViT  
+✅ Automatic highlight video creation  
+✅ React dashboard with charts & previews  
+✅ Flask backend API
+
+---
+
+## 🛠 Tech Stack
+
+- **Deep Learning:** YOLOv8, ViViT Transformer, PyTorch  
+- **Computer Vision:** OpenCV, FFmpeg  
+- **Backend:** Flask, Python  
+- **Frontend:** React.js, Chart.js  
+- **Server:** Waitress
+
+---
+
+## 📂 Project Structure
+
+
+app/
+├── app.py # Flask Backend
+├── dashboard/
+│ ├── src/ # React Source
+│ ├── App.js
+├── models/ # YOLO & Transformer models
+├── outputs/
+│ ├── ball_1.mp4
+│ ├── highlights.mp4
+
+## 📊 Results
+
+- **Shot Classification Accuracy: ~74%
+- **Robust ball segmentation
+- **Fully automated highlight pipeline
+- **Multi-class cricket shot analytics
+
+<!--
+
 
